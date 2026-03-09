@@ -4,15 +4,15 @@ A sleek and responsive React application designed to help you manage your grocer
 
 ---
 
-## 📸 Screenshots
+## 📸 Screens
 
-| Item Added | Edit Item | Remove Item |
-| :---: | :---: | :---: |
-| ![Grocery Bud](public/screens/item-added.png) | ![Edit Item](public/screens/item-updated.png) | ![Remove Item](public/screens/item-removed.png) |
-
-| Empty Input | Empty List |
-| :---: | :---: |
-| ![Empty Input](public/screens/empty-home-page.png) | ![Empty List](public/screens/empty-list.png) |
+| State | Preview |
+| :--- | :--- |
+| **Item Added** | <img src="public/screens/item-added.png" alt="Item Added" width="500"/> |
+| **Edit Item** | <img src="public/screens/item-updated.png" alt="Edit Item" width="500"/> |
+| **Remove Item** | <img src="public/screens/item-removed.png" alt="Remove Item" width="500"/> |
+| **Empty Input** | <img src="public/screens/empty-home-page.png" alt="Empty Input" width="500"/> |
+| **Empty List** | <img src="public/screens/empty-list.png" alt="Empty List" width="500"/> |
 
 ---
 
@@ -41,10 +41,14 @@ Follow these steps to get the project up and running on your local machine.
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/your-username/grocery-bud.git
+   ```
+
+2. **Navigate to the project directory:**
+   ```bash
    cd grocery-bud
    ```
 
-2. **Install dependencies:**
+3. **Install dependencies:**
    ```bash
    npm install
    ```
@@ -73,6 +77,17 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 ---
 
-## 📝 License
+## 🤝 Community & Contributions
 
-This project is open source and available under the [MIT License](LICENSE).
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+- **Code of Conduct**: Please read our [Code of Conduct](CODE_OF_CONDUCT.md) to understand the standards of behavior we expect in our community.
+- **Contributing**: Check out the [Contributing Guidelines](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
+- **Security**: Please refer to our [Security Policy](SECURITY.md).
+- **Issue Templates**: When opening an issue, please use the provided [Bug Report](.github/ISSUE_TEMPLATE/bug_report.md) or [Feature Request](.github/ISSUE_TEMPLATE/feature_request.md) templates.
+
+---
+
+## 📜 License
+
+Distributed under the MIT License. See `LICENSE` for more information.
